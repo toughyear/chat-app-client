@@ -1,5 +1,5 @@
 .messageBox {
-  background: #F3F3F3;
+  background: #f3f3f3;
   border-radius: 20px;
   padding: 5px 20px;
   color: white;
@@ -30,7 +30,7 @@
   display: flex;
   align-items: center;
   font-family: Helvetica;
-  color: #828282;
+  color: #413f3f;
   letter-spacing: 0.3px;
 }
 
@@ -59,9 +59,9 @@
 }
 
 .backgroundBlue {
-  background: #2979FF;
+  background: #e96f28;
 }
 
 .backgroundLight {
-  background: #F3F3F3;
+  background: #fcdc8a;
 }
